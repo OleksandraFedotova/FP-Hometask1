@@ -1,8 +1,0 @@
-C:\Users\dtryg\source\repos\FP-hometask\FP-hometask\bin\Debug\netcoreapp2.1\FP-hometask.deps.json
-C:\Users\dtryg\source\repos\FP-hometask\FP-hometask\bin\Debug\netcoreapp2.1\FP-hometask.runtimeconfig.json
-C:\Users\dtryg\source\repos\FP-hometask\FP-hometask\bin\Debug\netcoreapp2.1\FP-hometask.runtimeconfig.dev.json
-C:\Users\dtryg\source\repos\FP-hometask\FP-hometask\bin\Debug\netcoreapp2.1\FP-hometask.dll
-C:\Users\dtryg\source\repos\FP-hometask\FP-hometask\bin\Debug\netcoreapp2.1\FP-hometask.pdb
-C:\Users\dtryg\source\repos\FP-hometask\FP-hometask\obj\Debug\netcoreapp2.1\FP-hometask.fsprojAssemblyReference.cache
-C:\Users\dtryg\source\repos\FP-hometask\FP-hometask\obj\Debug\netcoreapp2.1\FP-hometask.dll
-C:\Users\dtryg\source\repos\FP-hometask\FP-hometask\obj\Debug\netcoreapp2.1\FP-hometask.pdb
